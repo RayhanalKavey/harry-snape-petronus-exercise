@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 LILY'S PATRONUS
                    .     _,
                    |`\__/ /
@@ -14,3 +15,6 @@ LILY'S PATRONUS
      ||  \\       |||
      )\   )\      )||
      `"   `"      `""
+=======
+lorem dfadskjfdkjfhasdfahdskfahsdfhaskfjhakjfhas
+>>>>>>> Stashed changes
