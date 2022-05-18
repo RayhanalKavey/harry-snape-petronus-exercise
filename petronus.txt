@@ -1,5 +1,0 @@
-push push 
-pull req
-for conflict
-
-add both
